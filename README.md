@@ -1,4 +1,4 @@
-This is all document for travel planner for our teams
+This is all document for travel planner for our teams. <br />
 My team: 
  - Tran Viet Long
  - Vuong Duy Hieu
